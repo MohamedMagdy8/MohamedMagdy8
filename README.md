@@ -48,12 +48,12 @@
 ║     class Developer extends Human {                              ║
 ║                                                                  ║
 ║       final String  name    = "Mohamed Magdy";                   ║
-║       final String  role    = "Junior Full-Stack Developer";     ║
+║       final String  role    = "Full-Stack Developer";            ║
 ║       final String  uni     = "Alexandria University";           ║
 ║       final String  degree  = "CS & Data Science · 2023→2027";   ║
 ║       final String  email   = "hamomagdy2004@gmail.com";         ║
 ║       final String  based   = "Alexandria, Egypt 🇪🇬";            ║
-║       final bool    hiring  = true; // ← talk to me              ║
+║       final bool    hiring  = true;                              ║
 ║                                                                  ║
 ║       void passion() => ["React", "ML", "Clean Code", "Linux"];  ║
 ║       void learning() => ["Frappe", "Ethical Hacking"];          ║
