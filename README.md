@@ -20,7 +20,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝    ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=🚀+Building+full-stack+apps+with+React+%26+Next.js;🧠+Training+ML+models+with+Python+%26+Scikit-learn;📊+Turning+raw+data+into+decisions+with+Power+BI;🔐+Learning+Ethical+Hacking+%26+Secure+Web+Dev;✅+Open+to+work+—+Let's+build+something+great" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=🚀+Building+full-stack+apps+with+React+%26+Next.js;🧠+Training+ML+models+with+Python+%26+Scikit-learn;📊+Turning+raw+data+into+decisions+with+Power+BI;🔐+Learning+Ethical+Hacking+%26+Secure+Web+Dev;✅+Open+to+work+—+Lets+build+something+great&v=2" alt="Typing SVG" />
 
 <br/>
 
