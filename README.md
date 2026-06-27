@@ -4,7 +4,7 @@
 
 <br/>
 
-```
+<pre>
 ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗
 ████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗
 ██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║
@@ -18,16 +18,17 @@
 ██║╚██╔╝██║██╔══██║██║   ██║██║  ██║  ╚██╔╝
 ██║ ╚═╝ ██║██║  ██║╚██████╔╝██████╔╝   ██║
 ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝    ╚═╝
-```
+</pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=🚀+Building+full-stack+apps+with+React+%26+Next.js;🧠+Training+ML+models+with+Python+%26+Scikit-learn;📊+Turning+raw+data+into+decisions+with+Power+BI;🔐+Learning+Ethical+Hacking+%26+Secure+Web+Dev;✅+Open+to+work+—+Lets+build+something+great&v=2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=50&lines=Building+full-stack+apps+with+React+%26+Next.js+%F0%9F%9A%80;Training+ML+models+with+Python+%26+Scikit-learn+%F0%9F%A7%A0;Turning+raw+data+into+decisions+with+Power+BI+%F0%9F%93%8A;Learning+Ethical+Hacking+%26+Secure+Web+Dev+%F0%9F%94%90;Open+to+work+%E2%80%94+Lets+build+something+great+%E2%9C%85" alt="Typing SVG" />
 
 <br/>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=161b22)](https://mohamed-magdy-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://linkedin.com/in/mohamedmagdy5)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:hamomagdy2004@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=161b22)](https://wa.me/201064226085)
+<a href="https://mohamed-magdy-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-161b22?style=for-the-badge" /></a>
+<a href="https://linkedin.com/in/mohamedmagdy5"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hamomagdy2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/201064226085"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br/>
 
@@ -213,7 +214,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMagdy8&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="56%" />
+<img src="https://streak-stats.demolab.com/?user=MohamedMagdy8&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="56%" />
 
 <br/><br/>
 
