@@ -1,17 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,70:0d1117,100:0d1117&height=140&section=header&text=Mohamed%20Magdy&fontSize=52&fontColor=58a6ff&fontAlignY=65&animation=fadeIn&desc=Junior%20Full-Stack%20Developer%20%7C%20Data%20Science%20%7C%20ML&descSize=16&descAlignY=85&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=100&section=header" width="100%"/>
+
+</div>
+
+<div align="center">
+
+```
+888b     d888        888                                       888
+8888b   d8888        888                                       888
+88888b.d88888        888                                       888
+888Y88888P888 .d88b. 88888b.  8888b. 88888b.d88b.  .d88b.  .d88888
+888 Y888P 888d88""88b888 "88b    "88b888 "888 "88bd8P  Y8bd88" 888
+888  Y8P  888888  888888  888.d888888888  888  88888888888888  888
+888   "   888Y88..88P888  888888  888888  888  888Y8b.    Y88b 888
+888       888 "Y88P" 888  888"Y888888888  888  888 "Y8888  "Y88888
+
+              888b     d888                     888
+              8888b   d8888                     888
+              88888b.d88888                     888
+              888Y88888P888 8888b.  .d88b.  .d88888888  888
+              888 Y888P 888    "88bd88P"88bd88" 888888  888
+              888  Y8P  888.d888888888  888888  888888  888
+              888   "   888888  888Y88b 888Y88b 888Y88b 888
+              888       888"Y888888 "Y88888 "Y88888 "Y88888
+                                      888             888
+                                 Y8b d88P        Y8b d88P
+                                  "Y88P"          "Y88P"
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=🚀+Building+full-stack+apps+with+React+%26+Next.js;🧠+Training+ML+models+with+Python+%26+Scikit-learn;📊+Turning+raw+data+into+decisions+with+Power+BI;🔐+Learning+Ethical+Hacking+%26+Secure+Web+Dev;✅+Open+to+work+—+Let's+build+something+great" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=🚀+Building+full-stack+apps+with+React+%26+Next.js;🧠+Training+ML+models+with+Python+%26+Scikit-learn;📊+Turning+raw+data+into+decisions+with+Power+BI;🔐+Learning+Ethical+Hacking+%26+Secure+Web+Dev;✅+Open+to+work+—+Let's+build+something+great" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=0d1117)](https://mohamed-magdy-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/mohamedmagdy5)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:hamomagdy2004@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0d1117)](https://wa.me/201064226085)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=161b22)](https://mohamed-magdy-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://linkedin.com/in/mohamedmagdy5)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:hamomagdy2004@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=161b22)](https://wa.me/201064226085)
 
 <br/>
 
@@ -74,7 +99,7 @@
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-58a6ff?style=flat-square&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-58a6ff?style=flat-square)
 
 </td>
 <td align="center" width="33%">
@@ -232,6 +257,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,70:0d1117,100:0d1117&height=100&section=footer&text=Let's+build+something+great&fontSize=18&fontColor=58a6ff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=100&section=footer&text=Let's+build+something+great&fontSize=18&fontColor=58a6ff&fontAlignY=65" width="100%"/>
 
 </div>
