@@ -1,7 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Magdy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=⚡%20Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20CS%20Student&descSize=16&descAlignY=55&descColor=aaaaaa" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06060f,50:7c3aed,100:06b6d4&height=240&section=header&text=Mohamed%20Magdy&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20·%20ML%20Engineer%20·%20CS%20Student&descSize=15&descAlignY=60&descColor=a78bfa" width="100%"/>
+</div>
+<br/>
 </div>
 
 <pre align="center">
@@ -37,22 +37,18 @@
 <img align="right" width="360" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623932622f313534313538303631313632342d5445363451474b524a4738535741495553374e432f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578774b4c734b4a6669504c39493059756a6f79716263315061416a6c787671595052596f4f61616e636c61665a585448586f6d7268796c7742425064734a424e736579356f4d4e354f54596255766d316130756e464e35687973307536626c79716f3039564e6a4f3938774f3030/coding-freak.gif" />
 
 ```dart
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║   class Developer extends Human {               ║
-║                                                  ║
-║     name    → "Mohamed Magdy"                   ║
-║     role    → "Full-Stack Developer"            ║
-║     uni     → "Alexandria University"           ║
-║     degree  → "CS & Data Science · 2023→2027"  ║
-║     based   → "Alexandria, Egypt 🇪🇬"           ║
-║     hiring  → true  // ← talk to me            ║
-║                                                  ║
-║     passion()   → [ React, ML, Clean Code ]     ║
-║     learning()  → [ Frappe, Ethical Hacking ]   ║
-║   }                                              ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+const Mohamed = {
+  name     : "Mohamed Magdy",
+  role     : "Full-Stack Developer · DS & ML",
+  uni      : "Alexandria University",
+  degree   : "CS & Data Science  ·  2023 → 2027",
+  location : "Alexandria, Egypt 🇪🇬",
+  hiring   : true,   // 
+
+  stack    : ["React", "Next.js", "Node.js", "Python", "MongoDB"],
+  learning : ["Frappe / ERPNext", "Ethical Hacking"],
+  passion  : ["Clean Code", "ML Pipelines", "Data Storytelling"],
+};
 ```
 
 <br clear="right"/>
@@ -245,7 +241,6 @@
 
 ```
 ❝ First, solve the problem. Then, write the code. ❞
-                                   — John Johnson
 
   😵 write code → 🤯 debug 3hrs → 😎 it works → 🔁 repeat
 ```
