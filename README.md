@@ -18,9 +18,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=32&lines=%5BSYSTEM+BOOT%5D+Initializing+developer+profile...;%5BSTACK%5D+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+Python;%5BML%5D+Scikit-learn+%7C+Pandas+%7C+NumPy+%7C+Power+BI;%5BSTATUS%5D+Open+to+work+--+seeking+internships+%26+collabs;%5BLOCATION%5D+Alexandria%2C+Egypt+%2F%2F+UTC%2B2" />
 
 </div>
-<div align="center">
+
 
 <br/><br/>
+<div align="center">
 
 <a href="https://mohamed-magdy-portfolio.vercel.app/"><img src="https://img.shields.io/badge/◈%20Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
 <a href="https://linkedin.com/in/mohamedmagdy5"><img src="https://img.shields.io/badge/◈%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
