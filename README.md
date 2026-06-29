@@ -1,23 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,70:7c3aed,100:06b6d4&height=260&section=header&text=Mohamed%20Magdy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20ML%20Engineer%20·%20CS%20Student&descSize=16&descAlignY=58&descColor=c4b5fd&stroke=7c3aed&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001100,100:000000&height=220&section=header&text=%3E_%20MOHAMED%20MAGDY&fontSize=52&fontColor=00ff41&animation=blinking&fontAlignY=50&desc=Full-Stack%20Dev%20%7C%20ML%20Engineer%20%7C%20CS%20%40%20Alexandria%20University&descSize=14&descAlignY=70&descColor=00aa2a&stroke=00ff41&strokeWidth=1" width="100%"/>
 
 </div>
 
-<pre align="center">
-<span style="color:#7c3aed">
-███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗ 
-████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗
-██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
-</span>
-</pre>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=640&height=45&lines=Building+full-stack+apps+with+React+%26+Next.js+%F0%9F%9A%80;Training+ML+models+with+Python+%26+Scikit-learn+%F0%9F%A7%A0;Turning+raw+data+into+decisions+with+Power+BI+%F0%9F%93%8A;Learning+Ethical+Hacking+%26+Secure+Web+Dev+%F0%9F%94%90;Open+to+work+%E2%80%94+Let%27s+build+something+great+%E2%9C%85" alt="Typing SVG" />
+```
+  ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗
+  ██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝
+  ██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║   
+  ██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║   
+  ██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║   
+  ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝   
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=32&lines=%5BSYSTEM+BOOT%5D+Initializing+developer+profile...;%5BSTACK%5D+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+Python;%5BML%5D+Scikit-learn+%7C+Pandas+%7C+NumPy+%7C+Power+BI;%5BSTATUS%5D+Open+to+work+--+seeking+internships+%26+collabs;%5BLOCATION%5D+Alexandria%2C+Egypt+%2F%2F+UTC%2B2" />
+
+</div>
+<div align="center">
 
 <br/><br/>
 
@@ -260,7 +261,8 @@ while (true) {
 ```
 
 <br/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,70:7c3aed,100:06b6d4&height=140&section=footer&text=Let%27s+build+something+great+🚀&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001100,100:000000&height=80&section=footer&text=%3E_+EOF+--+Let's+build+something+that+matters&fontSize=15&fontColor=00ff41&fontAlignY=55&animation=blinking" width="100%" />
 
 </div>
