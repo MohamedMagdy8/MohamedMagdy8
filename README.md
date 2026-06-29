@@ -17,9 +17,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=32&lines=%5BSYSTEM+BOOT%5D+Initializing+developer+profile...;%5BSTACK%5D+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+Python;%5BML%5D+Scikit-learn+%7C+Pandas+%7C+NumPy+%7C+Power+BI;%5BSTATUS%5D+Open+to+work+--+seeking+internships+%26+collabs;%5BLOCATION%5D+Alexandria%2C+Egypt+%2F%2F+UTC%2B2" />
 
-</div>
-
-
 <br/><br/>
 <div align="center">
 
